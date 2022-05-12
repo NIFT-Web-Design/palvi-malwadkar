@@ -237,6 +237,25 @@ background-size: cover;
   opacity: 70%
 }
 
+.btn2{
+  display: inline-block;
+  background: black;
+  color: white;
+  padding: 8px 30px;
+  margin: 48px 0px;
+  border-radius: 30px;
+  transition: background 0.5s;
+  font-size: 16px;
+
+}
+.btn2:hover{
+
+  background: white;
+  color: black;
+  border: 1px solid;
+  border-color: black
+
+}
 
 
 .ArtisansWords {
